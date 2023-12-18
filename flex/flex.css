@@ -1,0 +1,48 @@
+.flex-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+    background-color: rgb(132, 226, 55)
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    background-color: #ffffff;
+    border: 2px solid #ffffff;
+    margin: 10px;
+    font-size: 16pt;
+    border-radius: 15px;
+}
+img{
+    width: 95%;
+    height: 60%;
+    justify-content: flex-start;
+    border-radius: 15px;
+    padding-left: 8px;
+    padding-top: 7px;
+}
+p{
+    padding-left: 10px;
+    color: rgb(73, 73, 73);
+}
+.cost{
+    width: 40%;
+    background-color: rgb(255, 251, 251);
+    font-size: 20pt;
+    margin-left: 10px;
+    padding-top: -20px;
+}
+.discont{
+    background-color: rgb(248, 62, 62);
+    width: 25%;
+    margin-left: 10px;
+    border-radius: 7px;
+    text-align: center;
+    color: rgb(255, 251, 251);
+}

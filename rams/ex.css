@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+    font-size: 24pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text{
+    width: 100%; height: auto; 
+    border-style: solid;
+    border-image-width: 15px;
+    border-image-source: url(image/rama.jpg);
+    border-image-slice: 50;
+    border-image-repeat: round;
+    margin-right: 20px;
+}
+p{
+    padding: 20px;
+}
+p::first-letter{
+    border: 3px double rgb(148, 6, 167);
+    margin: 5px;
+    font-size: 28pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.zagolovok{
+    background: url(image/ris.jpg) repeat-y;
+    background-size: 15px;
+    margin-left: 20px;
+    padding-left: 12px;
+}
+

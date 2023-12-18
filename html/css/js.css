@@ -1,0 +1,57 @@
+h3{
+    background-color: rgb(184, 219, 150);
+    width: 18%;
+    border-radius: 20px;
+}
+.cl{
+    background-color: rgb(245, 168, 222);
+    border-radius: 10px;
+
+}
+.cs{
+    background-color: rgb(192, 253, 253);
+    width: 75%;
+    border-radius: 10px;
+
+}
+.ck{
+    background-color: rgb(166, 166, 252);
+    width: 95%;
+    border-radius: 10px;
+
+}
+.ba{
+    background-color: rgb(199, 166, 252);
+    width: 95%;
+    border-radius: 10px;
+}
+.p{
+    background-color: rgb(173, 173, 173);
+    width: 95%;
+    border-radius: 10px;
+}
+.l{
+    background-color: rgb(250, 239, 140);
+    width: 95%;
+    border-radius: 10px;
+}
+.n{
+    background-color: rgb(255, 185, 232);
+    width: 95%;
+    border-radius: 10px;
+}
+.s{
+    background-color: rgb(252, 166, 166);
+    width: 95%;
+    border-radius: 10px;
+}
+.bb{
+    background-color: rgb(178, 178, 179);
+    width: 95%;
+    border-radius: 10px;
+}
+.k{
+    background-color: rgb(252, 218, 166);
+    width: 95%;
+    border-radius: 10px;
+}
